@@ -1,0 +1,11 @@
+{
+  "sampleData": {
+    "e70ab172-701e-419c-bdd0-8dfee7823d3d": {
+      "vars-bank": "sample_data/defaultstringtype.dwl",
+      "vars-branchName": "sample_data/defaultstringtype_1.dwl",
+      "vars-type": "sample_data/defaultstringtype_2.dwl",
+      "vars-inputpayload": "sample_data/list_json.json",
+      "vars-customerName": "sample_data/defaultstringtype_3.dwl"
+    }
+  }
+}

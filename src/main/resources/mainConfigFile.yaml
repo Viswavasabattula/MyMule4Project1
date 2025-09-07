@@ -1,0 +1,21 @@
+http:
+  port: "8081"
+  
+db:
+  sfc:
+    accountName: "WVCMPRL-DC80415"
+    warehouse: "COMPUTE_WH"
+    user: "VISWA"
+    role: "ACCOUNTADMIN"
+    database: "VOBS"
+    schema: "BFS"
+    password: "94415518K65a0369@"
+    
+email:
+  config:
+    host: "smtp.gmail.com"
+    port: "587"
+    user: "viswa.vasabattula09@gmail.com"
+    password: "mhpb onzl wbys vyan"
+    
+  
