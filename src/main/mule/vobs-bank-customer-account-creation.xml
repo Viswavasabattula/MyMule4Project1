@@ -158,7 +158,7 @@ output text/plain
 Thanks for choosing us !]]></email:content>
 			</email:body>
 		</email:send>
-		<logger level="INFO" doc:name="email sent" doc:id="8acdcf5b-d81b-4200-b8b3-ac161dd9c921" message="---------email sent successfully----------"/>
+		<logger level="INFO" doc:name="email sent" doc:id="8acdcf5b-d81b-4200-b8b3-ac161dd9c921" message="---------email sent successfully"/>
 	</flow>
 	<flow name="post:\createAccount:application\json:vobs-bank-customer-account-creation-config">
         <logger level="INFO" doc:name="Begin the customer acct " doc:id="2bea52cd-0473-439e-a590-1b6260ea24b9" message='-------Create customer account creation Begin --------the input is--#[payload]'/>
